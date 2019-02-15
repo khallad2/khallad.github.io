@@ -3,16 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="948fc406-cdd4-4d1f-968a-ecf02ebd4028" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/images/pic01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pic02.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pic03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pic04.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pic05.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pic06.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pic07.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pic08.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/pic09.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/images/technologies.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/technology.png" afterPath="$PROJECT_DIR$/images/technology.png" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,11 +18,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="88" column="97" lean-forward="false" selection-start-line="88" selection-start-column="97" selection-end-line="88" selection-end-column="97" />
+            <state relative-caret-position="85">
+              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
               <folding>
                 <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1550222136107" expanded="false" signature="5686:8292" ph="..." />
+                <marker date="1550225370372" expanded="false" signature="5739:8345" ph="..." />
               </folding>
             </state>
           </provider>
@@ -39,6 +31,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -344,7 +337,7 @@
       <option name="presentableId" value="Default" />
       <updated>1550156434735</updated>
       <workItem from="1550156436281" duration="10378000" />
-      <workItem from="1550215550936" duration="5383000" />
+      <workItem from="1550215550936" duration="7072000" />
     </task>
     <task id="LOCAL-00001" summary="updates">
       <created>1550177677077</created>
@@ -367,11 +360,25 @@
       <option name="project" value="LOCAL" />
       <updated>1550221988050</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="webtt add fix padding delete unused images">
+      <created>1550222163305</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1550222163305</updated>
+    </task>
+    <task id="LOCAL-00005" summary="description enhance">
+      <created>1550225387669</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1550225387669</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15761000" />
+    <option name="totallyTimeSpent" value="17450000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -387,7 +394,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -416,7 +423,9 @@
     <MESSAGE value="updates" />
     <MESSAGE value="webtt add" />
     <MESSAGE value="webtt add fix padding" />
-    <option name="LAST_COMMIT_MESSAGE" value="webtt add fix padding" />
+    <MESSAGE value="webtt add fix padding delete unused images" />
+    <MESSAGE value="description enhance" />
+    <option name="LAST_COMMIT_MESSAGE" value="description enhance" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -429,7 +438,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1550222136107" expanded="false" signature="5686:8292" ph="..." />
+            <marker date="1550225370372" expanded="false" signature="5739:8345" ph="..." />
           </folding>
         </state>
       </provider>
@@ -470,11 +479,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="88" column="97" lean-forward="false" selection-start-line="88" selection-start-column="97" selection-end-line="88" selection-end-column="97" />
+        <state relative-caret-position="85">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1550222136107" expanded="false" signature="5686:8292" ph="..." />
+            <marker date="1550225370372" expanded="false" signature="5739:8345" ph="..." />
           </folding>
         </state>
       </provider>
